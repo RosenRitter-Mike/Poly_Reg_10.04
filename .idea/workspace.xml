@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd6765c-bda6-49bc-87f2-5400057e5171" name="Changes" comment="exercise_03">
+    <list default="true" id="bfd6765c-bda6-49bc-87f2-5400057e5171" name="Changes" comment="exercise_04">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex_03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,13 +95,22 @@
       <option name="project" value="LOCAL" />
       <updated>1745071997301</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="exercise_04">
+      <option name="closed" value="true" />
+      <created>1745079809734</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745079809734</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exercise_01" />
     <MESSAGE value="exercise_02" />
     <MESSAGE value="exercise_03" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise_03" />
+    <MESSAGE value="exercise_04" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise_04" />
   </component>
 </project>

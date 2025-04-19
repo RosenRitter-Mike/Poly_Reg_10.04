@@ -11,9 +11,9 @@ Example:
     a gaming company wants to survey the market to make a successful Sci-Fi RPG
     data of games:
 
-    number of playable races 1 to 10
-    number of playable factions 1 to 4
-    number of usable item types 1000 to 1000000
+    number of playable races 1 to 10 (Human, Klingon, Ferengi, ...)
+    number of playable factions 1 to 4 (Republic, Empire, Hutt Cartel, ...)
+    number of usable item types 1000 to 1000000 (P90 smg, Zat'nik'tel, Chitin armor, Geiger counter, ...)
     is part of major sci-fi universe (Star Trek, Star Wars, W40K, Dune, Stargate, ...) (bool) 1 or 0
     character customisation (1 - next to none,..., 5 - up to the last wrinkle in the character eye corner)
     product cost in usd 25 to 100
